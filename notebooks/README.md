@@ -7,4 +7,4 @@
 - **raven_to_stats.ipynb**: Process and compute simple statistics on a manual annotation selection
 - **split_files.ipynb**: Given a set of batches, splits files into calibration/validation sets following user-set criteria
 
-All notebooks can be run by adding custom paths and parameters in their respective **Input/Output Files & Parameters** sections.
+All notebooks can be run by adding custom paths and parameters in their respective *Input/Output Files & Parameters* sections.

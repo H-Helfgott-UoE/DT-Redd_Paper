@@ -4,4 +4,4 @@
 - **peaks_to_stats.py**: From the output of **frames_to_peaks.py** and a separate manual annotation selection, compute algorithm performance statistics
 - **time_performance.py**: Copy of **period_to_peaks.py** with added time statistics computations. Used for the speed performance assessment of DT-Redd.
 
-All scripts can be run by adding custom paths and parameters in their respective **Input/Output Files & Parameters** sections.
+All scripts can be run by adding custom paths and parameters in their respective *Input/Output Files & Parameters* sections.
