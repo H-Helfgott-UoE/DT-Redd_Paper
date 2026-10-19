@@ -1,6 +1,6 @@
 # DT-Redd
 
-This repository contains the code used to conduct all testing, calibration and runs of the DT-Redd algorithm for detecting Atlantic salmon redd digging events from long-term audio data. See associated paper: WILL ADD LINK WHEN I CAN.
+This repository contains the code used to conduct all testing, calibration and runs of the DT-Redd algorithm for detecting Atlantic salmon redd digging events from long-term audio data. See associated paper: WILL ADD LINK WHEN PUBLISHED.
 
 ## Contents
 
